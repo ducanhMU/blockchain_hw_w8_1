@@ -1,0 +1,9 @@
+{
+  "name": "newPicture",
+  "description": "motherLand <3",
+  "image": "ipfs://bafybeifldpsdi7727qpfxe5pwn63hlu7lammelqpfcs5ewikehefk577du",
+  "attributes": [
+    { "trait_type": "Damage", "value": 75 },
+    { "trait_type": "Rarity", "value": "Legendary" }
+  ]
+}
